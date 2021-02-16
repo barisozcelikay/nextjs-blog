@@ -22,7 +22,7 @@ function Home ({ allPostsData }) {
             </Head>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <p>Hello,I'm <strong>Barış</strong>. I work on Web&Mobile App Development.
-                    You can cotact me on <a href= "https://www.linkedin.com/in/baris-ozcelikay/">LinkedIn.</a></p>
+                    You can contact me on <a href= "https://www.linkedin.com/in/baris-ozcelikay/">LinkedIn.</a></p>
                 <p>
                     (This is a sample website - you’ll be building a site like this on{' '}
                     <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
